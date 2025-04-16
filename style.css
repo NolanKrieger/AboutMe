@@ -1,3 +1,6 @@
+body{
+    background-color: navy;
+}
 #header{
     background-color: blueviolet;
     border: 3px solid gold;
@@ -13,18 +16,55 @@
     color: gold;
 }
 main{
-    border: 3px solid black;
     border-radius: 25px;
     width: 80%;
     height: 350px;
     position: absolute;
     top: 125px;
     left: 10%;
+    
 }
-.middle{
-    border: 3px solid black;
+#mid1{
+    border: 3px solid gold;
     border-radius: 25px;
-    height: 200px;
-    width: 30%;
-    position:absolute;
+    height: 250px;
+    width: 310px;
+    position: absolute;
+    left: 0px;
+    text-align: center;
+    padding: 10px;
+    background-color: blueviolet;
+    color: gold;
+    font-size: 20px;
+}
+#mid2{
+    border: 3px solid gold;
+    border-radius: 25px;
+    height: 250px;
+    width: 310px;
+    position: absolute;
+    left: 350px;
+    text-align: center;
+    padding: 10px;
+    background-color: blueviolet;
+    color: gold;
+    font-size: 20px;
+}
+#mid3{
+    border: 3px solid gold;
+    border-radius: 25px;
+    height: 250px;
+    width: 310px;
+    position: absolute;
+    left: 700px;
+    text-align: center;
+    padding: 10px;
+    background-color: blueviolet;
+    color: gold;
+    font-size: 20px;
+}
+.images{
+    height: 150px;
+    width: 100%;
+    border-radius: 25px;
 }
