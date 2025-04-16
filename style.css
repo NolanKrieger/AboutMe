@@ -1,0 +1,30 @@
+#header{
+    background-color: blueviolet;
+    border: 3px solid gold;
+    border-radius: 25px;
+    text-align: center;
+    width: 50%;
+    position:absolute;
+    left: 25%;
+    top: 10px;
+
+}
+#header h1{
+    color: gold;
+}
+main{
+    border: 3px solid black;
+    border-radius: 25px;
+    width: 80%;
+    height: 350px;
+    position: absolute;
+    top: 125px;
+    left: 10%;
+}
+.middle{
+    border: 3px solid black;
+    border-radius: 25px;
+    height: 200px;
+    width: 30%;
+    position:absolute;
+}
